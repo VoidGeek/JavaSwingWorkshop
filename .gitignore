@@ -1,37 +1,31 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
 # Java compiled class files
 *.class
 
-# Package Files
+# Package files
 *.jar
 *.war
 *.ear
 
-# IntelliJ IDEA specific files
-.idea/
-*.iml
-out/
-*.ipr
-*.iws
+# Logs
+*.log
 
 # OS-specific files
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-
-# Temporary files
+# Temporary or editor-specific files
 *.tmp
 *.swp
 *.swo
+~*
 
 # Java crash logs
 hs_err_pid*
 replay_pid*
-
-# Build directories
-/build/
-*/target/
-
-# Exclude any library jars or dependencies
-lib/*.jar
