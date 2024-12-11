@@ -28,6 +28,32 @@ Welcome to the **Java Swing Workshop**! This hands-on session covers the basics 
 
 ---
 
+## How to Clone and Run in IntelliJ
+
+### Step 1: Clone the Repository
+1. Open IntelliJ IDEA.
+2. Go to **File > New > Project from Version Control**.
+3. Select **Git** and provide the repository URL in the prompt.
+4. Choose a directory on your machine and click **Clone**.
+
+### Step 2: Open the Project
+1. IntelliJ will automatically open the cloned project. If not, go to **File > Open** and select the cloned folder.
+
+### Step 3: Configure the SDK
+1. Go to **File > Project Structure > SDKs**.
+2. Click **+** and select **Add JDK**.
+3. Navigate to your installed JDK (e.g., Java 21) and click **OK**.
+
+### Step 4: Mark `src` as Source Root
+1. Right-click the `src` folder in the Project view.
+2. Select **Mark Directory as > Sources Root**.
+
+### Step 5: Run a Program
+1. Locate the desired file in the `src` folder (e.g., `SwingIntro.java`).
+2. Right-click the file and select **Run 'SwingIntro.main()'**.
+
+---
+
 ## Resources
 
 1. **[Swing Documentation](https://docs.oracle.com/javase/tutorial/uiswing/)**: Official Oracle Swing tutorial.
