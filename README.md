@@ -31,7 +31,7 @@ Welcome to the **Java Swing Workshop**! This hands-on session covers the basics 
 ## Resources
 
 1. **[Swing Documentation](https://docs.oracle.com/javase/tutorial/uiswing/)**: Official Oracle Swing tutorial.
-2. **[Java SDK Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)**: Download Java 17 LTS.
+2. **[Java SDK Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)**: Download Java 21 LTS.
 3. **IntelliJ IDEA Guide**: Follow the installation guide in the `setup/` folder.
 
 Happy coding! 🚀
